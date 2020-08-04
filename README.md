@@ -8,6 +8,8 @@
 5. все ускорения и передвижения Mega-S забиты прямо в прошивку
 6. отключен бутскрин для ускорения запуска
 
+ENG:
+
 1. only non-reversed TMC2208
 2. only 12864 RepRapDiscount Full Graphic Smart Controller
 3. beeper/buzzer support
